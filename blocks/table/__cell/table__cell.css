@@ -1,0 +1,5 @@
+.table__cell {
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+}
