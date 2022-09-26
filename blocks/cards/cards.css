@@ -2,8 +2,8 @@
     display: flex;
     flex-wrap: wrap;
     width: 920px;
-    row-gap: 100px;
-    column-gap: 60px;
+    row-gap: 60px;
+    column-gap: 100px;
     padding: 60px 0 0;
     justify-content: flex-start;
     margin: 0;

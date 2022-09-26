@@ -1,5 +1,6 @@
 /* сюда подключаем все стили используемых блоков в иерархическом порядке */
 
+@import url(../vendor/normalize.css);
 
 @import url(../blocks/rotation/rotation.css);
 
@@ -89,7 +90,4 @@
 @import url(../blocks/resources/__logo-zone/resources__logo-zone.css);
 @import url(../blocks/resources/__logo-link/resources__link.css);
 
-:root {
-    --link-transition: all 0.5s linear;
-    --link-opacity: 30%;
-}
+@import url(../vendor/variables.css);

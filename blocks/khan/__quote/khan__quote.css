@@ -5,4 +5,7 @@
     margin: 0;
     width: 790px;
     padding-top: 50px;
+    vertical-align: baseline;
+    background: transparent;
+    quotes: none;
 }
